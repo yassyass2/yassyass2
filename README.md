@@ -1,6 +1,5 @@
 <h2 align="left">Hi! My name is Yassine and I'm a Developer from The Netherlands</h2>
-<h3 align="left"> Studying computer science</h3>
-<h3 align="left"> I am currently interested in Backend and Cloud development</h3>
+<h3 align="left"> Studying computer science, currently interested in Backend and Cloud development</h3>
 ###
 
 <div align="center">
